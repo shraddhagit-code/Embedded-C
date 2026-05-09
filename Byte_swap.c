@@ -17,4 +17,5 @@ int main()
 {
   uint32_t input = FA56CDB3, Output = Swap_bytes(input);
   printf("Input = 0x%x and Output = 0x%x",input,Output);
+  return 0;
 }
